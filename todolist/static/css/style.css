@@ -216,7 +216,6 @@ button {
     width: 75px;
     text-align: center;
     border-radius: 2px;
-    float: right;
     font-weight: normal;
     text-transform: uppercase;
     margin-right: 20px;
@@ -228,20 +227,8 @@ button {
     margin-top : 23px;
     background: #2980b9;
 }
-.category-Personal {
-    background: #2980b9;
-}
-.category-Work {
-    background: #8e44ad;
-}
-.category-School {
-    background: #f39c12;
-}
-.category-Cleaning {
-    background: #16a085;
-}
-.category-Other {
-    background: #d35400;
+.category-Compulsary {
+    background: #287cb4;
 }
 footer {
     text-align: center;
